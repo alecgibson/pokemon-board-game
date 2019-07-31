@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-board-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download:images": "node ./scripts/download-images"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.0"
+  }
+}
